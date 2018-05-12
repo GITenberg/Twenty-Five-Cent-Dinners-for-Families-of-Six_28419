@@ -1,0 +1,30 @@
+_repo: Twenty-Five-Cent-Dinners-for-Families-of-Six_28419
+_version: 0.1.0
+alternative_title: 25 Cent Dinners for Families of 6
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Corson, Juliet
+    alias: Corson, Miss (Juliet)
+    birthdate: 1842
+    deathdate: 1897
+    gutenberg_agent_id: '33326'
+    url: http://www.gutenberg.org/2009/agents/33326
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2009-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28419'
+  lccn: ca10002226
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking, American'
+title: Twenty-Five Cent Dinners for Families of Six
+url: http://www.gutenberg.org/ebooks/28419
