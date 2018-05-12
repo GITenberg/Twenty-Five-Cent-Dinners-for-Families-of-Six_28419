@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '33326'
     url: http://www.gutenberg.org/2009/agents/33326
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28419#Twenty-Five-Cent-Dinners-for-Families-of-Six
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2009-03-27'
 gutenberg_type: Text
